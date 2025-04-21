@@ -49,7 +49,7 @@ foreach (int num in numbers){
 
 
 task for loop:
-![[Pasted image 20250316082906.png]]
+![[Z_IMAGES/Pasted image 20250316082906.png]]
 ```c#
 
         int[] arry = { 1, 2, 3, 4, 5, 6 };

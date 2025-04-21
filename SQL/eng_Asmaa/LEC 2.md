@@ -6,10 +6,10 @@ Database Life Cycle | مراحل الداتا بيس
 
 
 1. Analysis -> System Analyst
-src | system requirment suntfcuation in c# | required document | بتفهم من العميل هو عايز اي زي العقد كدا اي اللي انت عايزه واي اللي هيطلعه ودا شغلانته ال analysis
+src | system requirement sonification in c# | required document | بتفهم من العميل هو عايز اي زي العقد كدا اي اللي انت عايزه واي اللي هيطلعه ودا شغلانته ال analysis
 
 2. Database Design -> Database Designer
-Entity Relationship Diagram [ERD]
+Entity Relationship Diagram 
 بترسملي الدااتا بيس علي ورق او برنامج بالجداول 
 3. Database Mapping -> Database Designer
 Database Schema
