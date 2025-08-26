@@ -39,7 +39,9 @@ End users
 
 ---
 
-The ER Model
+
+### -------------------------- The ER Model --------------------------
+
 Basic Components of the E-R model:
 1. Entities: person, place, object, event, concept (often corresponds to a real time object that is distinguishable from any other object)| اي بيانات بخدمها من الداتا انليزسيت
 2. Attributes: property or characteristic of an entity type (often corresponds to a field in a table)| وصف للintity
